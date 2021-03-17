@@ -2,9 +2,22 @@
    
    <img width="1200px" height="250px" src="https://img.ibxk.com.br/2020/11/17/17151728510089.jpg?w=704&h=264&mode=crop&scale=both" />
    
+   <p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/viniciusfal/DisneyPlus-auth?color=%2304D361">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/viniciusfal/DisneyPlus-auth">
+  <a href="https://github.com/viniciusfal/DisneyPlus-auth/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/viniciusfal/DisneyPlus-auth">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+ </p>
+</p>
 
-#  Project Backend - Diney+
+<h4 align="center" > 
+	🚧  DisneyPlus-auth ♻️ Done 🚀 🚧
+</h4>
 
+
+<h1 align="center"> Project Backend - Diney+ </h1>
 ## 💻 About the project
 
 ♻️  DineyPlus-auth - It's a backend project that have like target to make page authenticate of DisneyPlus, and creation user. This project have good habits of software architecture and data security.
