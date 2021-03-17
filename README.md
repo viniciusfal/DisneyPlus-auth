@@ -44,7 +44,7 @@ $ git clone https://github.com/viniciusfal/DisneyPlus-auth
 $ yarn
  
 # Execute app
-$ yarn start
+$ yarn dev:server
 ````
 
 ---
