@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+#  Project Backend - Diney+
 
 Steps to run this project:
 
